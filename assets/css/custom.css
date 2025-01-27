@@ -1,0 +1,14 @@
+/* Add here all your css styles (customizations) */
+
+.rev_slider_wrapper {
+  width: 100%;
+  height: 80vh !important; /* Utilise 100% de la hauteur du viewport */
+  position: relative;
+}
+
+#rev_slider_24_1 {
+  width: 100%;
+  height: 100% !important; /* Prend toute la hauteur disponible */
+  max-height: 100vh; /* Limite la hauteur au viewport */
+}
+
